@@ -1,1 +1,1 @@
-# Glucometer
+The invasive nature of the glucometers make the patients uncomfortable to check their diabetes level. So we proposed a portable low cost device for glucose level analyzer from exhaled breath for diabetic patients. The acetone level in the exhaled air is measured with the help of the acetone concentration the glucose level is calculated.
